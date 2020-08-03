@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###Contact Me
+
+###Reach Out To Me !     
+Discusss an idea or drop a Hi.
+
+
+
 
 
