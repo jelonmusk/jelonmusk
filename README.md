@@ -1,3 +1,8 @@
+![Header](https://github.com/jelonmusk/jelonmusk/blob/master/header.png)
+## Aspiring Software Developer :coffee: | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:
+
+
+Contact me
 <!--
 **jelonmusk/jelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
