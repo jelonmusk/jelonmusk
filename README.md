@@ -6,7 +6,7 @@
   <a href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
   <a href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
   <a href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
-  <a href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
+  <a href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
   <a href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
   <a href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
   </div>
@@ -51,7 +51,7 @@ Discuss an idea or wanna drop a Hi?
   <a href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
   <a href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
   <a href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
-  <a href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
+  <a href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
   <a href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
   <a href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
   </div>
