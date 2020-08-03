@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ###Contact Me
 
 ###Reach Out To Me !     
-Discusss an idea or drop a Hi.
+Discusss an idea or drop a Hi?
+
+
 
 
 
