@@ -1,8 +1,28 @@
 ![Header](https://github.com/jelonmusk/jelonmusk/blob/master/header.png)
-## Aspiring Software Developer :coffee: | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:
+## Aspiring Software Developer :coffee: | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:    
 
-### [Contact Me](###-reach-out-to-me)
+ <html>
+ <div class="contact">
+  <a href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
+  <a href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
+  <a href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
+  <a href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
+  <a href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
+  </div>
+</html>    
+</br>    
 
+
+### [Contact Me](###-reach-out-to-me)    
+
+### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
+
+
+<html>
+  <div>
+    <p>I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" width="400" height="400" style="float:right"></p>
+  </div>
+  </html
 
 <!--
 **jelonmusk/jelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
