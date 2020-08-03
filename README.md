@@ -21,7 +21,8 @@
 
 <html>
   <div>
-    <p>I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" width="400" height="400" style="float:right"></p>
+    <p>I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. 
+     I  develop highly interactive Front end / User Interfaces for your web and mobile applications <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" width="400" height="400"  align="right"></p>
   </div>
   </html
 
@@ -38,11 +39,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->    
+
+
+ </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
 ### Reach Out to me !
 Discuss an idea or wanna drop a Hi?
 
 <html>
+ </br>
   <div class="location">
     <p><img src="https://github.com/jelonmusk/jelonmusk/blob/master/location.svg" style="vertical-align:middle" /> Bangalore , India</p>
   </div>
