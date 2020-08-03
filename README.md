@@ -1,4 +1,8 @@
-### Hi there 👋
+## I'm JShaikh 👋
+
+###Aspiring Software Developer :coffee: |    Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves coding and Coffee :space_invader:
+
+
 
 <!--
 **jelonmusk/jelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
