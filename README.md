@@ -17,16 +17,17 @@
 ### [Contact Me](###-reach-out-to-me)    
 
 
-<html>
-<a target="_blank" href="https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing><h3>See My Resume</h3></a>    
-</html>
+### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)
 
 <html>
   <div>
     <p>I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. 
      I  develop highly interactive Front end / User Interfaces for your web and mobile applications <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" width="400" height="400"  align="right"></p>
   </div>
-  </html
+  </html    
+ 
+ 
+ 
 
 <!--
 **jelonmusk/jelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 -->    
 
 
- 
+<!--footer--> 
 ### Reach Out to me !
 Discuss an idea or wanna drop a Hi?
 
