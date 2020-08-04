@@ -16,8 +16,10 @@
 
 ### [Contact Me](###-reach-out-to-me)    
 
-### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
 
+<html>
+<a target="_blank" href="https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing><h3>See My Resume</h3></a>    
+</html>
 
 <html>
   <div>
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 -->    
 
 
- </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
+ 
 ### Reach Out to me !
 Discuss an idea or wanna drop a Hi?
 
