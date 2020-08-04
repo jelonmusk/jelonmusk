@@ -1,7 +1,7 @@
 ![Header](https://github.com/jelonmusk/jelonmusk/blob/master/header.png)
 ## Aspiring Software Developer :coffee: | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:    
 
- <html>
+
  <div class="contact">
   <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg"align="left"  width="45" height="45" /></a>
@@ -9,9 +9,13 @@
   <a target="_blank" href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" align="left"  width="45" height="45"  /></a>
   <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" align="left" width="45" height="45"  /></a>
-  </div>
-</html>    
+  </div>    
+  
+  </br> 
+  
+![](https://visitor-badge.glitch.me/badge?page_id=jelonmusk.jelonmusk)     
 </br>    
+
 
 
 ### [Contact Me](###-reach-out-to-me)    
@@ -24,7 +28,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img align="right" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fnew-game-ahagon-umiko-programming-work-working-at-work-gif-13247664&psig=AOvVaw0S8y4UGE8o7khZXfrPxUkX&ust=1596636500793000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiKzN_cgesCFQAAAAAdAAAAABAJ" class="card-img" width="350" height="350"  alt="developer" />
+      <img align="right" src="https://github.com/jelonmusk/jelonmusk/blob/master/tenor.gif" class="card-img" width="350" height="350"  alt="" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
@@ -58,6 +62,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
+</br>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+</br>    
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jelonmusk&show_icons=true&include_all_commits=true&theme=dark" alt="JShaikh's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelonmusk&layout=compact&theme=dark" />
+</a>
+</br>
 
 <!--footer--> 
 ### Reach Out to me !
