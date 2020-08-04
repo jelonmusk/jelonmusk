@@ -3,12 +3,12 @@
 
  <html>
  <div class="contact">
-  <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
-  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
+  <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg"align="left"  width="45" height="45" /></a>
+  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" align="left" width="45" height="45"  /></a>
   </div>
 </html>    
 </br>    
@@ -70,12 +70,12 @@ Discuss an idea or wanna drop a Hi?
   </div>
   </br>
   <div class="contact">
-  <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
-  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
-  <a target="_blank"  href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
+  <a target="_blank" href="https://github.com/jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
+  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://medium.com/@jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
+  <a target="_blank"  href="https://gitlab.com/jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
   </div>
 </html>
 
