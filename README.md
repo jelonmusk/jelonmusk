@@ -17,28 +17,25 @@
 ### [Contact Me](###-reach-out-to-me)    
 
 
-### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)
+### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
+
 
 <html>
   <div class="container">
-   <div class="card mb-3" style="max-width: 540px;">
-    <div class="row no-gutters">
-       <div class="col-sm-4">
-         <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" class="card-img" width="400" height="400"  alt="developer">
-       </div>
-     <div class="col-md-8">
-         <div class="card-body">
-            <h5 class="card-title">What I Do</h5>
+  <div class="row">
+    <div class="col">
+      <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" class="card-img" width="350" height="350"  alt="developer" />
+    </div>
+    <div class="col">
+          <h3 class="card-title">What I Do</h3>
             <p class="card-text">I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. 
                                 I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
                                  I write technical articles on medium.com and i'm also a writer for Analytics Vidhya pulications .
                                   I have created applications backend in Node, Express & Django</p>
-        </div>
-      </div>
     </div>
- </div>
-</div>
-  </html    
+  </div>
+ </div>  
+</html    
  
  
  
