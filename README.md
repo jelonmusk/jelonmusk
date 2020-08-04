@@ -24,7 +24,7 @@
   <div class="container">
   <div class="row">
     <div class="col">
-      <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" class="card-img" width="350" height="350"  alt="developer" />
+      <img align="right" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fnew-game-ahagon-umiko-programming-work-working-at-work-gif-13247664&psig=AOvVaw0S8y4UGE8o7khZXfrPxUkX&ust=1596636500793000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiKzN_cgesCFQAAAAAdAAAAABAJ" class="card-img" width="350" height="350"  alt="developer" />
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
