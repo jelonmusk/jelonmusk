@@ -23,17 +23,16 @@
   <div class="container">
    <div class="card mb-3" style="max-width: 540px;">
     <div class="row no-gutters">
-       <div class="col-md-4">
+       <div class="col-sm-4">
          <img src="https://github.com/jelonmusk/jelonmusk/blob/master/female developer 2-01.jpg" class="card-img" width="400" height="400"  alt="developer">
        </div>
      <div class="col-md-8">
          <div class="card-body">
             <h5 class="card-title">What I Do</h5>
             <p class="card-text">I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. 
-     I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
-     I write technical articles on medium.com and i'm also a writer for Analytics Vidhya pulications .
-     I have created applications backend in Node, Express & Django</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
+                                 I write technical articles on medium.com and i'm also a writer for Analytics Vidhya pulications .
+                                  I have created applications backend in Node, Express & Django</p>
         </div>
       </div>
     </div>
