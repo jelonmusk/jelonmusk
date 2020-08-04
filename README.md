@@ -18,7 +18,7 @@
 
 
 
-### [Contact Me](#-reach-out-to-me-)    
+### [Contact Me](#reach-out-to-me-)    
 
 
 ### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </br>
 
-**Languages and Tools:**  
+### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
