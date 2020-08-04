@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <!--footer--> 
 ### Reach Out to me !
-Discuss an idea or wanna drop a Hi?
+###### Discuss an idea or wanna drop a Hi?
 
 <html>
  </br>
