@@ -32,10 +32,10 @@
     </div>
     <div class="col">
           <h3 class="card-title">What I Do</h3>
-            <p class="card-text">I'm a passionate and curious software developer who wants to explore everys stack and tech there is out there. 
+            <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there. 
                                 I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
-                                 I write technical articles on medium.com and i'm also a writer for Analytics Vidhya pulications .
-                                  I have created applications backend in Node, Express & Django</p>
+                                 I write technical articles on medium.com and I'm also a writer for Analytics Vidhya Data Science publications .
+                                  I have created applications  in Node, Express & Django</p>
     </div>
   </div>
  </div>  
