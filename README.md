@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 </br>    
 
 
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jelonmusk&type=horizontal&limit=3)](https://medium.com/@jelonmusk)      
+
+</br>    
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jelonmusk&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="JShaikh's github stats" />
 </a>
