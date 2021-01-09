@@ -10,7 +10,7 @@
   <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/youtube.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://stackoverflow.com/users/12005297/j-shaikh?tab=profile"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/stack-overflow.svg" align="left" width="45" height="45" />  </a>
-  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" align="left" width="45" height="45" /></a>
+ <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
@@ -115,7 +115,8 @@ Here are some ideas to get you started:
   <a target="_blank" href="mailto:jelonmusk@gmail.com"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
   <a target="_blank" href="https://medium.com/@jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
   <a target="_blank"  href="https://gitlab.com/jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>
+  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>    
+ <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/icons8-geeksforgeeks.svg"/>" width="45" height="45"  /></a>
   </div>
 </html>
 
