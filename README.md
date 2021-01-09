@@ -10,7 +10,7 @@
   <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/youtube.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://stackoverflow.com/users/12005297/j-shaikh?tab=profile"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/stack-overflow.svg" align="left" width="45" height="45" />  </a>
- <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" align="left" width="45" height="45" /></a>
+ <a target="_blank" href="https://auth.geeksforgeeks.org/user/jelonmusk/articles"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/icons8-geeksforgeeks.svg" align="left" width="45" height="45" /></a>
   </div>    
   
   </br> 
