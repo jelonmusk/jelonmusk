@@ -23,8 +23,8 @@
 ### [Contact Me](#reach-out-to-me-)    
 
 
-### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
-
+###<!-- [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
+-->
 
 <html>
   <div class="container">
