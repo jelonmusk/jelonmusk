@@ -6,7 +6,7 @@
   <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg"align="left"  width="45" height="45" /></a>
   <a target="_blank" href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" align="left"  width="45" height="45"  /></a>
+  <a target="_blank" href="https://jelonmusk.medium.com/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" align="left"  width="45" height="45"  /></a>
   <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/youtube.svg" align="left" width="45" height="45" /></a>
  <a target="_blank" href="https://stackoverflow.com/users/12005297/j-shaikh?tab=profile"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/stack-overflow.svg" align="left" width="45" height="45" />  </a>
