@@ -54,10 +54,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+<!--
 ### 📊 GitHub Stats  
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelonmusk&show_icons=true&include_all_commits=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelonmusk&layout=compact&theme=transparent) |
 |---|---|
+-->
 <!--
 > 🔁 These stats update every ~6 hours. If they're not showing up, append `?cache_bust=1` to the image URL to force refresh.
 
