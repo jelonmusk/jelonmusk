@@ -1,73 +1,50 @@
-![Header](https://github.com/jelonmusk/jelonmusk/blob/master/header.png)
-## Aspiring Software Developer :coffee: | Microsoft Learn Student Ambassador 👩‍💻 | Technical Content Writer :writing_hand: |  Open Source Contributor :fire:  | Loves Coding and Coffee :space_invader:     [![GitHub](https://img.shields.io/github/license/jelonmusk/jelonmusk?color=blue)](https://github.com/jelonmusk/jelonmusk/blob/master/LICENSE) 
+![Header](https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/header.png)
 
-
- <div class="contact">
-  <a target="_blank" href="https://github.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg"align="left"  width="45" height="45" /></a>
-  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" align="left" width="45" height="45" /></a>
-  <a target="_blank" href="https://jelonmusk.medium.com/"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" align="left"  width="45" height="45"  /></a>
-  <a target="_blank" href="https://gitlab.com/jelonmusk"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" align="left" width="45" height="45" /></a>
- <a target="_blank" href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/youtube.svg" align="left" width="45" height="45" /></a>
- <a target="_blank" href="https://stackoverflow.com/users/12005297/j-shaikh?tab=profile"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/stack-overflow.svg" align="left" width="45" height="45" />  </a>
- <a target="_blank" href="https://auth.geeksforgeeks.org/user/jelonmusk/articles"><img src="https://github.com/jelonmusk/jelonmusk/blob/master/icons8-geeksforgeeks.svg" align="left" width="45" height="45" /></a>
-  </div>    
-  
-  </br> 
-  
-![](https://visitor-badge.glitch.me/badge?page_id=jelonmusk.jelonmusk)     
-</br>    
-
-
-
-### [Contact Me](#reach-out-to-me-)    
-### [Buy Project PPT/Slides and Report NOW!](https://jelonmusk.gumroad.com/l/pXTeR)    
-
-<!--### [See My Resume](https://drive.google.com/file/d/1W504_sOJY6LKCv-co0rtlCORkO6OaqF3/view?usp=sharing)    
--->
-
-<html>
-  <div class="container">
-  <div class="row">
-    <div class="col">
-      <img align="right" src="https://github.com/jelonmusk/jelonmusk/blob/master/tenor.gif" class="card-img" width="350" height="350"  alt="" />
-    </div>
-    <div class="col">
-          <h3 class="card-title">What I Do</h3>
-            <p class="card-text">I'm a passionate and curious software developer who wants to explore every stack and tech there is out there. 
-                                I  develop highly interactive Front end / User Interfaces for your web and mobile applications.
-                                 I write technical articles on medium.com and I'm also a writer for Analytics Vidhya Data Science publications.
-                                  I have created applications  in Node, Express & Django</p>
-    </div>
-  </div>
- </div>  
-</html>   
-
-
-
- 
- 
- 
-
+## Hi, I’m Juvairiya 👋  
+**Software Developer** ☕  | **Technical Writer** ✍️ | Former Microsoft Learn Student Ambassador 👩‍💻 |  **Open‑Source Enthusiast** 🔥  
 <!--
-**jelonmusk/jelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![License](https://img.shields.io/github/license/jelonmusk/jelonmusk?color=blue)](https://github.com/jelonmusk/jelonmusk/blob/master/LICENSE)
+-->
+<!--
+#### Connect with Me  
+<a href="https://github.com/jelonmusk" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/github.svg" width="30"/></a>
+<a href="https://www.linkedin.com/in/juvairiya-fathima/" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/linkedin.svg" width="30"/></a>
+<a href="mailto:jelonmusk@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/google.svg" width="30"/></a>
+<a href="https://jelonmusk.medium.com/" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/medium.svg" width="30"/></a>
+<a href="https://gitlab.com/jelonmusk" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/gitlab.svg" width="30"/></a>
+<a href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/youtube.svg" width="30"/></a>
+<a href="https://stackoverflow.com/users/12005297/j-shaikh" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/stack-overflow.svg" width="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/jelonmusk/articles" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/icons8-geeksforgeeks.svg" width="30"/></a>
+-->
+<!-----
 
-Here are some ideas to get you started:
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jelonmusk.jelonmusk&left_color=green&right_color=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->    
+--- -->
 
-</br>
+## 👨‍💻 What I Do  
 
-### **Languages and Tools:**  
+<table border="0">
+  <tr>
+    <td width="60%" valign="top" border="0">
+      <p>
+      I’m a software engineer, fascinated by building large-scale, high-impact products that millions use. I thrive on clean architecture, system design, and sharing developer-focused tutorials to empower the community.
+      </p>
+     <p>I currently work as a software engineer at <a href = "https://github.com/IBM"><strong>@IBM</strong></a> .</p>
+     <p> Outside of work, I enjoy deep diving into tech developments and sharing what I learn with the tech community. I also paint and play video games.</p>
+      <ul>
+        <li><strong>🔧 Bonus:</strong> I’ve built a handy VS Code extension: <a href="https://marketplace.visualstudio.com/items?itemName=jelonmusk.treesnap" target="_blank"><strong>Treesnap</strong></a> — It generates and exports folder structures from local workspaces</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" border="0">
+      <img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/tenor.gif" width="300" alt="Typing animation" />
+    </td>
+  </tr>
+</table>
 
+
+
+### 🛠️ Tech Stack  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -77,47 +54,28 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-</br>    
 
+### 📊 GitHub Stats  
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelonmusk&show_icons=true&include_all_commits=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelonmusk&layout=compact&theme=transparent) |
+|---|---|
+<!--
+> 🔁 These stats update every ~6 hours. If they're not showing up, append `?cache_bust=1` to the image URL to force refresh.
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=jelonmusk&type=horizontal&limit=4)](https://medium.com/@jelonmusk)      
+---
+-->
+### 🔗 Projects & Extras  
+- Developer‑focused PPTs & reports — [Grab them on Gumroad](https://jelonmusk.gumroad.com/l/pXTeR)  
+- Check out my VS Code extension:  [**Treesnap**](https://marketplace.visualstudio.com/items?itemName=jelonmusk.treesnap) — hidden gem for devs
 
-</br>    
+---
 
+### 📫 Say Hi  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jelonmusk&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="JShaikh's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelonmusk&layout=compact&theme=dark" />
-</a>
-
- 
- <a href="https://github.com/jelonmusk/jelonmusk.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jelonmusk&repo=jelonmusk.github.io&theme=dark" />
-</a>
-</br>
-
-<!--footer--> 
-### Reach Out to me !
-#### Discuss an idea or wanna drop a Hi?
-
-<html>
- </br>
-  <div class="location">
-    <p><img src="https://github.com/jelonmusk/jelonmusk/blob/master/location.svg" style="vertical-align:middle" /> Bangalore , India</p>
-  </div>
-  </br>
-  <div class="contact">
-  <a target="_blank" href="https://github.com/jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/github.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/juvairiya-fathima-03376b1a4/"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/linkedin.svg" width="45" height="45" /></a>
-  <a target="_blank" href="mailto:jelonmusk@gmail.com"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/google.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://medium.com/@jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/medium.svg" width="45" height="45"  /></a>
-  <a target="_blank"  href="https://gitlab.com/jelonmusk"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/gitlab.svg" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.facebook.com/juvairiya.fathima.7509"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/facebook.svg" width="45" height="45"  /></a>   
- <a target="_blank" href="https://auth.geeksforgeeks.org/user/jelonmusk/articles"><img align="left" src="https://github.com/jelonmusk/jelonmusk/blob/master/icons8-geeksforgeeks.svg" width="45" height="45"  /></a>    
-  </div>
-</html>
-
-
+<a href="https://github.com/jelonmusk" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/github.svg" width="30"/></a>
+<a href="https://www.linkedin.com/in/juvairiya-fathima/" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/linkedin.svg" width="30"/></a>
+<a href="mailto:jelonmusk@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/google.svg" width="30"/></a>
+<a href="https://jelonmusk.medium.com/" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/medium.svg" width="30"/></a>
+<a href="https://gitlab.com/jelonmusk" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/gitlab.svg" width="30"/></a>
+<a href="https://www.youtube.com/channel/UCYKvkhU5vNS5O7W-J-zlp4g" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/youtube.svg" width="30"/></a>
+<a href="https://stackoverflow.com/users/12005297/j-shaikh" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/stack-overflow.svg" width="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/jelonmusk/articles" target="_blank"><img src="https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/icons8-geeksforgeeks.svg" width="30"/></a>
