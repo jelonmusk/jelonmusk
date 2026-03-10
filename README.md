@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/jelonmusk/jelonmusk/master/header.png)
 
 ## Hi, I’m Juvairiya 👋  
-**Software Developer** ☕  | **Technical Writer** ✍️ | F**ormer Microsoft Learn Student Ambassador** 👩‍💻 |  **Open‑Source Enthusiast** 🔥  
+**Software Developer** ☕  | **Technical Writer** ✍️ | **Former Microsoft Beta MLSA** 👩‍💻 |  **Open‑Source Enthusiast** 🔥  
 <!--
 [![License](https://img.shields.io/github/license/jelonmusk/jelonmusk?color=blue)](https://github.com/jelonmusk/jelonmusk/blob/master/LICENSE)
 -->
@@ -30,7 +30,7 @@
       <p>
       I’m a software engineer, fascinated by building large-scale, high-impact products that millions use. I thrive on clean architecture, system design, and sharing developer-focused tutorials to empower the community.
       </p>
-     <p>I currently work as a software engineer at <a href = "https://github.com/IBM"><strong>@IBM</strong></a> .</p>
+     <p>I currently work as a software engineer at <a href = "https://github.com/telstra"><strong>@Telstra</strong></a> .</p>
      <p> Outside of work, I enjoy deep diving into tech developments and sharing what I learn with the tech community. I also paint and play video games.<br>
       <ul>
         <li><strong>🔧 Bonus:</strong> Need to share your project structure for AI help, team onboarding, documentation, tutorials, or backups?<br><br>
